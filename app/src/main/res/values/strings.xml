@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vision Cam</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_desc">Vision Cam needs access to your device camera to display the live viewfinder and capture photos.</string>
+    <string name="grant_permission">Enable Camera</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_auto">Flash Auto</string>
+    <string name="grid_toggle">Toggle Grid</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="shutter_button">Take Photo</string>
+    <string name="gallery_thumbnail">Open Gallery</string>
+    <string name="exposure_control">Exposure Control</string>
+    <string name="info_button">Project Info</string>
+    <string name="close_info">Close Info</string>
+    <string name="info_title">Welcome to Vision Cam</string>
+    <string name="info_welcome_desc">This app has been proudly developed by the students of R. A. Podar College of Commerce &amp; Economics.</string>
+</resources>
