@@ -1,0 +1,8 @@
+{
+  "name": "Vision Cam",
+  "description": "Minimalist glassmorphism camera with full-screen preview, tap-to-focus, pinch zoom, exposure slider, rule-of-thirds grid, flash control, and high-res capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
